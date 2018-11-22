@@ -1,2 +1,2 @@
 # Data-Science-IBM
-# ejercicios de práctica para la certificación
+ejercicios de práctica para la certificación
